@@ -99,7 +99,9 @@ html {
     background-image: url(img-locations-background.jpg);
     height: 500px;
     padding-top: 70px;
-    background-repeat: round;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 
 .flex-container.locations {
